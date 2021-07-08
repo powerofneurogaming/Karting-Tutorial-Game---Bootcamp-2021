@@ -2,4 +2,4 @@
 Karting Tutorial Game for students of 2021 bootcamp
 
 
-Once loading the project onto your workstation, proceed with doing the highlighet tutorials!
+Once loading the project onto your workstation, proceed with doing the highlighted tutorials!
